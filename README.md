@@ -1,4 +1,9 @@
 # Golang Remote Desktop Protocol
+----
+Froked from tomatome/grdp
+----
+add darwin and linux build surpport
+
 
 grdp is a pure Golang implementation of the Microsoft RDP (Remote Desktop Protocol) protocol (**client side authorization only**).
 
